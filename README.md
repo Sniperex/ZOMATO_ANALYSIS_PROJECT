@@ -14,7 +14,7 @@ In this project, we embark on a gastronomic journey through the digital landscap
 # DATA
 The data is taken from Kaggle which is a dataset of Zomato Restaurants Data.
 
-Data dimensions: Two Tables-
+Data dimensions:
 - Zomato (9552 Records)
 - Country Code (15 Records)
 
