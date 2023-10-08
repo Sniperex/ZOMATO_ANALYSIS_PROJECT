@@ -15,9 +15,8 @@ In this project, we embark on a gastronomic journey through the digital landscap
 The data is taken from Kaggle which is a dataset of Zomato Restaurants Data.
 
 Data dimensions: Two Tables-
-
-                - Zomato (9552 Records)
-                - Country Code (15 Records)
+- Zomato (9552 Records)
+- Country Code (15 Records)
 
 While Cleaning and Organising Data with SQL, I was working on the following things-
 - Checked all the details of table such column name, data types and constraints
