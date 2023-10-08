@@ -14,11 +14,16 @@ In this project, we embark on a gastronomic journey through the digital landscap
 While Cleaning and Organising Data with SQL, I was working on the following things-
 
 1.Checked all the details of table such column name, data types and constraints
+
 2.Checked for duplicate values in [RestaurantId] column
+
 3.Removed unwanted columns from table
+
 4.Merged 2 differnt tables and added the new column of Country_Name with the help of primary key as [CountryCode] column
 5.Identitfied and corrected the mis-spelled city names
+
 6.Counted the no.of restaurants by rolling count/moving count using windows functions
+
 7.Checked min,max,avg data for votes, rating & currency column.
 8.Created new category column for rating
 
