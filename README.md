@@ -18,6 +18,8 @@ Data dimensions:
 - Zomato (9552 Records)
 - Country Code (15 Records)
 
+# ANALYSIS
+
 While Cleaning and Organising Data with SQL, I was working on the following things-
 - Checked all the details of table such column name, data types and constraints
 - Checked for duplicate values in [RestaurantId] column
