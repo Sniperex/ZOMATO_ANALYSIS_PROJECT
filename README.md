@@ -14,24 +14,12 @@ In this project, we embark on a gastronomic journey through the digital landscap
 While Cleaning and Organising Data with SQL, I was working on the following things-
 - Checked all the details of table such column name, data types and constraints
 - Checked for duplicate values in [RestaurantId] column
-- How do price ranges correlate with customer satisfaction?
-- Can we identify emerging food trends from user reviews?
-
-- 
-- 
-
-3.Removed unwanted columns from table
-
-4.Merged 2 differnt tables and added the new column of Country_Name with the help of primary key as [CountryCode] column
-
-5.Identitfied and corrected the mis-spelled city names
-
-6.Counted the no.of restaurants by rolling count/moving count using windows functions
-
-7.Checked min,max,avg data for votes, rating & currency column.
-
-8.Created new category column for rating
-
+- Removed unwanted columns from table
+- Merged 2 differnt tables and added the new column of Country_Name with the help of primary key as [CountryCode] column
+- Identitfied and corrected the mis-spelled city names
+- Counted the no.of restaurants by rolling count/moving count using windows functions
+- Checked min,max,avg data for votes, rating & currency column.
+- Created new category column for rating
 
 Then I proceeded with Analysing the Data where I found insights such as-
 
