@@ -11,6 +11,10 @@ In this project, we embark on a gastronomic journey through the digital landscap
 - How do price ranges correlate with customer satisfaction?
 - Can we identify emerging food trends from user reviews?
 
+# DATA
+The data is taken from Kaggle which is a dataset of Zomato Restaurants Data.
+
+Data dimensions: 3,07,511 records and 122 features
 
 While Cleaning and Organising Data with SQL, I was working on the following things-
 - Checked all the details of table such column name, data types and constraints
