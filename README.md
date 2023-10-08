@@ -12,9 +12,13 @@ In this project, we embark on a gastronomic journey through the digital landscap
 - Can we identify emerging food trends from user reviews?
 
 While Cleaning and Organising Data with SQL, I was working on the following things-
-
 - Checked all the details of table such column name, data types and constraints
 - Checked for duplicate values in [RestaurantId] column
+- How do price ranges correlate with customer satisfaction?
+- Can we identify emerging food trends from user reviews?
+
+- 
+- 
 
 3.Removed unwanted columns from table
 
