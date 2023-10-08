@@ -13,7 +13,7 @@ In this project, we embark on a gastronomic journey through the digital landscap
 
 While Cleaning and Organising Data with SQL, I was working on the following things-
 
-1.Checked all the details of table such column name, data types and constraints
+1.Checked all the details of table such column name, data types and constraints \n
 2.Checked for duplicate values in [RestaurantId] column
 
 3.Removed unwanted columns from table
