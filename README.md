@@ -6,10 +6,10 @@ In an age where culinary experiences are just a click away, Zomato has emerged a
 
 In this project, we embark on a gastronomic journey through the digital landscape of Zomato, aiming to uncover hidden insights, trends, and patterns in the world of dining. By delving into the extensive dataset provided by Zomato, we aim to answer intriguing questions:
 
-- What factors influence a restaurant's rating?
+- Regions with most listed restaurants?
 - Are certain cuisines more popular in specific regions?
-- How do price ranges correlate with customer satisfaction?
-- Can we identify emerging food trends from user reviews?
+- Restaurants with Delivery Options?
+- How does having a table booking facility affect ratings?
 
 # DATA
 The data is taken from Kaggle which is a dataset of Zomato Restaurants Data.
