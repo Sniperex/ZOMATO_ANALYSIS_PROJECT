@@ -34,4 +34,4 @@ As this dataset contains data most related to India so i worked on gaining insig
 - Out of 122 restaurants in Connaught Place only 54 restaurants provide table booking facility to their customers.
 - Average Ratings for restaurants with table booking facility is 3.9/5 compared to restaurants without table booking facility is 3.7/5 in Connaught Place,New Delhi.
 - Best modrately priced restaurants with average cost for two < 1000, rating > 4, votes > 4 and provides both table booking and online delivery options to their customer 
-  with indian cuisines is located in Kolkata,India named as 'India Restaurant',(RestaurantID - 20747).?
+  with indian cuisines is located in Kolkata,India named as 'India Restaurant',(RestaurantID - 20747).
