@@ -16,7 +16,7 @@ The data is taken from Kaggle which is a dataset of Zomato Restaurants Data.
 
 Data dimensions:
 - Zomato (9552 Records)
-- Country Code (15 Records)
+- Zomato Country Code (15 Records)
 
 # ANALYSIS
 
